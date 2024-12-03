@@ -2,8 +2,6 @@
 # Notebook - Iceberg - Nessie Setup
 ###########################################
 
-version: "3"
-
 services:
   # Spark Notebook Server
   notebook:
